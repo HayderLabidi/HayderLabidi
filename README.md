@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and Ux / Ui design**
 
-- 💬 Ask me about **JS / Css / HTML / Python / C / C++**
+- 💬 Ask me about **JS / Css / HTML / Python / C / C++ /Java **
 
 - 📫 How to reach me **hayderlabidi2001@gmail.com**
 
