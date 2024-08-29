@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayderlabidi&label=Profile%20views&color=0e75b6&style=flat" alt="hayderlabidi" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Ux / Ui design**
+- 🌱 I’m currently learning **AWS and Azure Cloud**
 
-- 💬 Ask me about **JS / Css / HTML / Python / C / C++ /Java / Flutter / MEAN STACK**
+- 💬 Ask me about **JS / Css / HTML / Python / C / C++ /Java / Flutter / MEAN STACK (Angular / SpringBoot / nodejs)**
 
 - 📫 How to reach me **hayderlabidi2001@gmail.com**
 
