@@ -6,6 +6,10 @@
 ### <div align="center">Hi 👋, I'm Hayder Labidi </div> 
 ###  <div align="center">A passionate full stack developer from Tunisia</div>  
   
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hayderlabidi&&style=flat-square" align="center" />
+</div>
+<br/>  
 
 - 🌱 I’m currently learning AWS and Azure Cloud  
   
@@ -17,13 +21,8 @@
   
 
 - ⚡ Fun fact One piece will be the king of Pirates haha  
+
   
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hayderlabidi&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
