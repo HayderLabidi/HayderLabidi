@@ -3,7 +3,7 @@
 </div>  
 
 ### <div align="center">👋 Hi, I'm Hayder Labidi</div>  
-### <div align="center">Full Stack Developer | DevOps Engineer | Funded Forex Trader</div>  
+### <div align="center">Full Stack Developer | Funded Forex Trader</div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hayderlabidi&style=flat-square" align="center" />
